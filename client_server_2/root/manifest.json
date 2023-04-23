@@ -1,0 +1,14 @@
+{
+  "server_address": "localhost",
+  "server_port": 8697,
+  "files": [
+    {
+      "filename": "file2.txt",
+      "keywords": ["test", "cute"]
+    },
+    {
+      "filename": "picture-1.png",
+      "keywords": ["test", "picture", "png"]
+    }
+  ]
+}
